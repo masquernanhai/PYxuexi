@@ -4,5 +4,6 @@ git add +""加文件名，本地git仓库提交到暂存区,git add . (上传所
 git commit -m "" 从暂存区提交到提交区，并注释
 git branch -M "" 可以创造分支名字
 git remote add origin + github的链接
+git remote set-url origin +github链接： 改url
 git push -u origin + 节点名字
 git reset --hard +id号
